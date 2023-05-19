@@ -6,7 +6,7 @@ SwiftUI
 ## About the project 🐕
 I have a dog, and when I go out for a walk with him, I realize that there are a lot of people who like dogs, but a surprising number of people don't know much about them. People assume that dogs like people and will be friendly, but in reality, many of my friends are not. With this app, I wanted to teach people how to greet dogs in a non-threatening way and what they like and don't like.
 
-I tried to make it as interactive as possible so you can intuitively know what it likes and dislikes. If you look at the puppy's facial expressions, you'll see that it's wary at first, showing its teeth and avoiding eye contact, but then it starts to make eye contact. The puppy's color is also a strange green at first and then gradually returns to its original color, showing that it is getting closer. 
+I tried to make it as interactive as possible so you can intuitively know what it likes and dislikes. If you look at the dog's facial expressions, you'll see that it's wary at first, showing its teeth and avoiding eye contact, but then it starts to make eye contact. The dog's color is also a strange green at first and then gradually returns to its original color, showing that it is getting closer. 
 
 Just try it and have fun! 
 
